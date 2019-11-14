@@ -1,5 +1,13 @@
-this is the first update:
+﻿this is the first update:
 
 created project folder.
 
+Analyzed accuracy and use case.
 
+Determined, this method of approach would not be useful.
+
+Original goal:
+	convert speech to text, translate korean text to english text, use text-emotion analysis on the text to determine emotion.
+
+Discovery:
+	not as significant as monitoring pitch/frequencies.
